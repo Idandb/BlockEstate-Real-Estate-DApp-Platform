@@ -2,17 +2,6 @@
 
 <div align="center">
   
-![BlockEstate](https://img.shields.io/badge/BlockEstate-Real%20Estate%20on%20Blockchain-blue?style=for-the-badge)
-
-[![Smart Contract](https://img.shields.io/badge/Smart_Contract-Solidity-363636?style=flat-square&logo=solidity)](https://soliditylang.org/)
-[![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react)](https://reactjs.org/)
-[![Backend](https://img.shields.io/badge/Backend-Django-092E20?style=flat-square&logo=django)](https://www.djangoproject.com/)
-[![Styling](https://img.shields.io/badge/Styling-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-
-*A decentralized application for secure real estate transactions using blockchain technology*
-</div>
-
 ## 📑 Table of Contents
 
 - [Overview](#overview)
