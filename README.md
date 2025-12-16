@@ -1,4 +1,4 @@
-# BlockEstate 🏢⛓️ SSSS
+# BlockEstate 🏢⛓️ 
 
 <div align="center">
   
@@ -243,13 +243,3 @@ BlockEstate implements multiple security measures:
 - JWT-based authentication with proper expiration
 - Encrypted storage of sensitive data
 - Secure blockchain transactions
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-<div align="center">
-  <sub>Built with ❤️ by the BlockEstate Team</sub>
-</div>
