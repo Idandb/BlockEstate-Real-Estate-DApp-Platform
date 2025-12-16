@@ -15,9 +15,6 @@
 - [Usage Guide](#usage-guide)
 - [Security Features](#security-features)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## 🌟 Overview
 
 BlockEstate revolutionizes real estate transactions by leveraging blockchain technology to create a transparent, secure, and efficient marketplace. The platform enables property listing, buying, selling, and ownership verification with complete transparency and reduced need for intermediaries.
